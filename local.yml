@@ -31,6 +31,7 @@
       - nano
       - nautilus
       - nautilus-dropbox
+      - net-tools
       - nscd
       - nfs-common
       - okular
